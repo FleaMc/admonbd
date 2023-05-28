@@ -1,0 +1,5 @@
+1. Realice y ejecute un algoritmo en SQL, que permita registrar 1000 Tuplas, usando While. Los campos son: Clave (PK), Campo2 (Entero  -Valor Aleatorio), Campo3 (Texto), Campo4(Texto)).
+
+2. De un archivo de TEXTO (block de notas), con 20 registros, tomara el contenido y lo almacenara en una Tabla SQL. Los campos son: Clave, Nombre, Color. Realizara el algoritmo de carga a la tabla en SQL.
+
+3. De un archivo de EXCEL, con 20 registros, en 3 COLUMNAS, tomara el contenido y lo almacenara en una Tabla SQL. Los campos son: Clave, Nombre, Color. Realizara el algoritmo de carga a la tabla en SQL.
